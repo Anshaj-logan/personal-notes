@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-ign Up -  With Mail And Password
+Sign Up -  With Mail And Password
 
 Login -  With Mail And Password 
 
