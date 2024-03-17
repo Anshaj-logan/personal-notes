@@ -1,18 +1,16 @@
-# personal-notes
+# personal_notes
 
+A new Flutter project.
 
-Sign Up -  With Mail And Password
+## Getting Started
 
-Login -  With Mail And Password 
+This project is a starting point for a Flutter application.
 
-it redirect to Home Page in App Bar shows the User Mail Id And Log out Button
+A few resources to get you started if this is your first Flutter project:
 
-If the Notes is Empty It Shows A text Message Add Your notes here....
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Adding Notes Using The Flaoting action button on right bottom corner and press the button it will redierct to to add notes page
-
-then we add title And description and save the note the data will store on firestore and popup the screen and it redirect to home screen 
-
-and notes will show in a listview the data retrive from firestore title and time stamp will show 
-
-when clicked on list tile it will goes to view note details page and we have a delete option also there on the top corner if press the delete icon that notes will disapear from list view and deleteed from firestore also,
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
